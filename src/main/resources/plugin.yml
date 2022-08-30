@@ -1,0 +1,5 @@
+name: BedrockBridge
+version: '${project.version}'
+main: online.bingulhan.bedrockbridge.BedrockBridge
+authors: [ BingulHan ]
+description: You can place blocks like in Bedrock edition!
